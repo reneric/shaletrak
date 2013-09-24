@@ -1,0 +1,89 @@
+@import url("ren.css");
+body {
+  background: url(../img/home-bg.png) no-repeat;
+  background-size:cover;
+}
+.container[role="wrapper"] {
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+  border-top: 3px #037727 solid;
+  border-radius:3px;
+  padding:10px 0;
+
+}
+*[role="icon"] {
+  font-size:30px;
+  display:block;
+  float:left;
+}
+
+*[role="logo"] {
+  display:block;
+  background: url(../img/logo.png) no-repeat center;
+  background-size:contain;
+  height:82px;
+}
+
+*[role="wells"] > li{
+list-style-type: none;
+}
+
+*[role="graph"] {
+  min-height:240px;
+}
+
+*[role="navigation"] .navbar-collapse > li > a:hover, *[role="navigation"] .navbar-collapse > li.active > a{
+border-left:1px solid #d9d9d9;
+border-top:1px solid #d9d9d9;
+border-bottom:1px solid #d9d9d9;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+-moz-background-clip: padding;
+-webkit-background-clip: padding-box;
+background-clip: padding-box;
+background-color: #fff;
+-moz-box-shadow: -5px 0 5px rgba(0,0,0,.03);
+-webkit-box-shadow: -5px 0 5px rgba(0,0,0,.03);
+box-shadow: -5px 0 5px rgba(0,0,0,.03);
+}
+
+.navbar {
+  border:none;
+}
+
+.navbar-collapse {
+  padding-right:0;
+  padding-top:15px;
+}
+
+.nav-stacked > li > a {
+  text-align:center;
+  font-size: 18px;
+}
+
+*[role="user-nav"] > li > a {
+  color:#fff;
+  background-color:#2a2e2a;
+}
+
+*[role="user-nav"] > li > a:hover {
+  background-color:#3e443e;
+  border:none;
+}
+
+.caret.negative {
+ border-top:4px #b60000 solid;
+}
+.caret.positive {
+ border-bottom:4px solid #037727;
+  border-top:none;
+}
+.positive {
+  color:#059933;
+  font-weight:bold;
+}
+.negative {
+  color:#b60000;
+  font-weight:bold;
+}

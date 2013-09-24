@@ -1,0 +1,1169 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"body",
+				"bodywidth"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"wp_res",
+				"wp_reset_query"
+			],
+			[
+				"staff",
+				"staff_fact"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"lato",
+				"latobld"
+			],
+			[
+				"comm",
+				"comm-section-footer	Comment - Section footer comment"
+			],
+			[
+				"current",
+				"current-page-ancestor"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"geteleme",
+				"getElementsByTagName"
+			],
+			[
+				"getElement",
+				"getElementsByTagName"
+			],
+			[
+				"as",
+				"ashlt"
+			],
+			[
+				"background",
+				"background-clip"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ash",
+				"ashdk"
+			],
+			[
+				"top-scrol",
+				"top-scroll-wrap"
+			],
+			[
+				"open",
+				"openPanel"
+			],
+			[
+				"close",
+				"closePanel"
+			],
+			[
+				"top-sc",
+				"top-scroll-wrap"
+			],
+			[
+				"slideout",
+				"slideout_inner"
+			],
+			[
+				"footer",
+				"footerHeight"
+			],
+			[
+				"getEle",
+				"getElementById"
+			],
+			[
+				"get_tit",
+				"get_the_title"
+			],
+			[
+				"get_sub",
+				"get_sub_field"
+			],
+			[
+				"top-",
+				"top-scroll-wrap"
+			],
+			[
+				"get_template_directory",
+				"get_template_directory_uri"
+			],
+			[
+				"c-",
+				"c-full	Comment - Full section comment"
+			],
+			[
+				"comm-",
+				"comm-section-footer	Comment - Section footer comment"
+			],
+			[
+				"home",
+				"home_url"
+			],
+			[
+				"wp",
+				"wploop	wp-loop"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"templat",
+				"get_template"
+			],
+			[
+				"ph",
+				"php	php"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"moni",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"monitor",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"monitpor",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"minotr",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"Moni",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"mon",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"monit",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"monitr",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"monito",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"mo",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"cance",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"remote",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"sftp canc",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"downl",
+				"SFTP: Download Folder"
+			],
+			[
+				"refre",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"uplo",
+				"SFTP: Upload Folder"
+			],
+			[
+				"upload",
+				"SFTP: Upload VCS Changed Files"
+			],
+			[
+				"u",
+				"SFTP: Upload Folder"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"new fil",
+				"File: New View into File"
+			],
+			[
+				"uo",
+				"SFTP: Upload Folder"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git s",
+				"Git: Commit history"
+			],
+			[
+				"todo",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: wploop",
+				"Snippet: wp-loop"
+			],
+			[
+				"Snippet: wp",
+				"Snippet: wp-loop"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 212.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/js/min/main.min.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/css/responsive.css",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/css/custom.css",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/video/1.mp4",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/video/2.swf",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/functions.php",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/js/bigvideo.script.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/video/2.mp4",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/video/svideo.mp4",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/node_modules/grunt/test/fixtures/banner2.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/css/bigvideo.css",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/js/main.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/content-careers.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/page.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/page-careers.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/page-where.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/inc/custom-functions.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/js/plugins.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/footer.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/content-aside.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/js/bigvideo.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/images/rightarrow.png",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/images/social.png",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/scss/includes.scss",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/staff.php",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/scss/animations.scss",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/scss/custom.scss",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/content-page.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/header.php",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/mobile-navigation.php",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/staff.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/content-where.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/css/animations.css",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/Gruntfile.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/content-team.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/scss/responsive.scss",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/inc/post-types.php",
+		"/Users/rsimmons/Desktop/Development/myApps/firebase/test.php",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/.git/COMMIT_EDITMSG",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/careers.php",
+		"/private/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/c2fca067-be34-4638-a4e6-c47a21a32635/singlesiteinstalls/Dezinsinteractive/includes/js/jquery.isotope.min.js",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/scss/includes.scss",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/content-single.php",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/page-where.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/single.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1379352690/iCodeThings/public_html/wp-content/themes/twentytwelve/js/main.js",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1379363366/chs/wp-content/themes/chs/lab.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1379363342/chs/wp-content/themes/chs/js/main.js",
+		"/private/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/c2fca067-be34-4638-a4e6-c47a21a32635/singlesiteinstalls/Dezinsinteractive/includes/js/script.js",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1379348889/iCodeThings/public_html/wp-content/themes/twentytwelve/js/tile.js",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1379345822/iCodeThings/public_html/wp-content/themes/twentytwelve/js/tile.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/template-redirect.php",
+		"/Users/rsimmons/Desktop/iLandMan_Logo.svg",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/console.log.sublime-snippet",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/sigmawhite.png",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/js/fastclick.js",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/scss/responsive.scss",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/css/responsive.css",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/js/plugins.js",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/js/modernizr.js",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/template-redirect.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/navbg.png",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/js/fastclick.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/arrow.png",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/menu.png",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/css/ie.css",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/style.css",
+		"/Users/rsimmons/Desktop/test.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/team.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/sidebar.php",
+		"/Users/rsimmons/Desktop/Development/Projects/sigma/inc/post-types.php",
+		"/Users/rsimmons/Desktop/test.html",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/Autoprefixer.sublime-settings",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/Autoprefixer/Autoprefixer.sublime-commands",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/style.min.css",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/css/test.css",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/f.jquery.sublime-snippet",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/el.jquery.sublime-snippet",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/package.json",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/Gruntfile.js",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/node_modules/grunt-contrib-imagemin/tasks/imagemin.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/node_modules/grunt-contrib-imagemin/Gruntfile.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/node_modules/grunt-contrib-imagemin/package.json",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/node_modules/grunt-contrib-sass/package.json",
+		"/Users/rsimmons/Desktop/Development/myApps/Grunt/Gruntfile.js",
+		"/Users/rsimmons/Desktop/Development/myApps/Grunt/package.json",
+		"/Users/rsimmons/Desktop/Development/myApps/Grunt/gruntfile.js",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/member-more.png",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/photo2.png",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/css-img.sublime-snippet",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/photo1.png",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/test3.png",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/numbers.png",
+		"/Users/rsimmons/Desktop/EdgeReflowProject/assets/page1.css",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/sftp-config.json",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/test2.png",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/test.png",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/css/fonts.css",
+		"/Users/rsimmons/Desktop/webfontkit-20130829-181419 2/stylesheet.css",
+		"/Users/rsimmons/Desktop/webfontkit-20130829-181419/stylesheet.css",
+		"/Users/rsimmons/Desktop/Dezins/Diversified Design Group/Template Files/Foundation/functions.php",
+		"/Users/rsimmons/Desktop/Development/Freelance/iCodeThings/css/main.css",
+		"/Users/rsimmons/Desktop/Development/Freelance/Central/css/custom.css",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/field.sublime-snippet",
+		"/private/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/4cf06b8e-581d-4022-b634-2ca4498849c5/wp-content/install.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/template-home.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/js/html5.js",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/css/fonts/lato-bla-webfont.eot",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/image-html.sublime-snippet",
+		"/Users/rsimmons/Desktop/Development/Projects/Sigma/img/bg.png",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/Comment-Snippets/comment-section.sublime-snippet",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/Comment-Snippets/comment-subsection.sublime-snippet",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/Concierge/scss/custom.scss",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/Comment-Snippets/comment-section-header.sublime-snippet",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/Comment-Snippets/comment.sublime-snippet",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/Comment-Snippets/comment-block.sublime-snippet",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/Sigma",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/sftp-config.json",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/chs",
+		"/Users/rsimmons/Desktop/Development/myApps/Angular/ToDo/css/style.css",
+		"/Users/rsimmons/Desktop/Development/myApps/Angular/ToDo/js/controllers.js",
+		"/Users/rsimmons/Desktop/Development/myApps/Angular/ToDo/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"excerpt",
+			"masthead",
+			"footer",
+			"width",
+			"fadeOut",
+			"text_be",
+			"cssanimate",
+			"function",
+			"cssclass",
+			"modernizr",
+			"min",
+			"mbivain",
+			"jQuery",
+			"main",
+			"masthead",
+			"footer",
+			"subnav",
+			"position",
+			"medium",
+			"center",
+			"Rouge",
+			"Baton",
+			"mast",
+			"summar",
+			"display",
+			"display:",
+			"resize",
+			"1000",
+			"this",
+			"1500",
+			"current",
+			"amp",
+			"page",
+			"transparent",
+			"menu-t",
+			"transparent",
+			"masthead",
+			"open",
+			"toggle",
+			"menu",
+			"subnav",
+			"none",
+			"menu-togg",
+			"page-bg",
+			"height",
+			"page-bg",
+			"article",
+			"20",
+			"fun",
+			"#sub",
+			"sub",
+			"display: none",
+			"display:none",
+			"subnav",
+			"opacity",
+			"ON",
+			"includes",
+			"body",
+			"20",
+			"content",
+			"resize",
+			"article",
+			"display: none",
+			"subnav ",
+			"subnav",
+			"$('#primary')",
+			"scroll",
+			"Scroll",
+			"scroll",
+			"Scroll",
+			"scroll",
+			"Scroll",
+			"scroll",
+			"Scroll",
+			"scroll",
+			"tsPosts",
+			"topScrollWrapSingle",
+			"wrap",
+			"hfollow",
+			"offset",
+			"team_member",
+			"100",
+			"right",
+			"div",
+			"the_excerpt",
+			"the_content",
+			"question",
+			"featured_image",
+			"toggle",
+			"bottom",
+			"margin",
+			"normal",
+			"position",
+			"careers",
+			"the_field",
+			"bottom",
+			"border-bottom",
+			"2x",
+			"block",
+			"button",
+			"OFFSET",
+			"bonus",
+			"primary",
+			"cHeight",
+			"150",
+			"content",
+			"posts",
+			"hfollow",
+			");\n",
+			"resizeend",
+			"hfo",
+			"secondary",
+			"header",
+			"860",
+			"position",
+			"o",
+			"child",
+			"article",
+			"who",
+			"100",
+			"90",
+			"100",
+			"content",
+			"article",
+			"alert",
+			"article",
+			"cHeight",
+			"init"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"amkANALYTICS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 31.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 438.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"resp",
+				"css/responsive.css"
+			],
+			[
+				"main.min",
+				"js/min/main.min.js"
+			],
+			[
+				"custom",
+				"css/custom.css"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"big",
+				"css/bigvideo.css"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"bigv",
+				"css/bigvideo.css"
+			],
+			[
+				"b",
+				"node_modules/grunt/test/fixtures/banner2.js"
+			],
+			[
+				"cust",
+				"scss/custom.scss"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"m",
+				"js/main.js"
+			],
+			[
+				"content-ca",
+				"content-careers.php"
+			],
+			[
+				"page-ca",
+				"page-careers.php"
+			],
+			[
+				"include",
+				"scss/includes.scss"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"staff",
+				"staff.php"
+			],
+			[
+				"plug",
+				"js/plugins.js"
+			],
+			[
+				"plugi",
+				"js/plugins.js"
+			],
+			[
+				"custom-f",
+				"inc/custom-functions.php"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"page-c",
+				"page-careers.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"main.",
+				"js/main.js"
+			],
+			[
+				"custom.s",
+				"scss/custom.scss"
+			],
+			[
+				"",
+				"inc/custom-functions.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"where",
+				"page-where.php"
+			],
+			[
+				"ani",
+				"scss/animations.scss"
+			],
+			[
+				"anim",
+				"css/animations.css"
+			],
+			[
+				"content-p",
+				"content-page.php"
+			],
+			[
+				"pa",
+				"page.php"
+			],
+			[
+				"content-c",
+				"content-careers.php"
+			],
+			[
+				"page-",
+				"page-careers.php"
+			],
+			[
+				"reso",
+				"css/responsive.css"
+			],
+			[
+				"cutom",
+				"css/custom.css"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"cont",
+				"content-careers.php"
+			],
+			[
+				"page-whe",
+				"page-where.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"team",
+				"content-team.php"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"res",
+				"css/responsive.css"
+			],
+			[
+				"cu",
+				"css/custom.css"
+			],
+			[
+				"custom-",
+				"inc/custom-functions.php"
+			],
+			[
+				"post-t",
+				"inc/post-types.php"
+			],
+			[
+				"functions",
+				"functions.php"
+			],
+			[
+				"content-",
+				"content-team.php"
+			],
+			[
+				"main.m",
+				"js/min/main.min.js"
+			],
+			[
+				"inclu",
+				"scss/includes.scss"
+			],
+			[
+				"content",
+				"content-where.php"
+			],
+			[
+				"single",
+				"single.php"
+			],
+			[
+				"sin",
+				"content-single.php"
+			],
+			[
+				"plu",
+				"js/plugins.js"
+			],
+			[
+				"functi",
+				"functions.php"
+			],
+			[
+				"redir",
+				"template-redirect.php"
+			],
+			[
+				"content-page",
+				"content-page.php"
+			],
+			[
+				"fo",
+				"footer.php"
+			],
+			[
+				"respon",
+				"scss/responsive.scss"
+			],
+			[
+				"cus",
+				"css/custom.css"
+			],
+			[
+				"custo",
+				"scss/custom.scss"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"functio",
+				"functions.php"
+			],
+			[
+				"fas",
+				"js/fastclick.js"
+			],
+			[
+				"fast",
+				"js/fastclick.js"
+			],
+			[
+				"ma",
+				"js/main.js"
+			],
+			[
+				"main.mi",
+				"js/min/main.min.js"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"ie.cs",
+				"css/ie.css"
+			],
+			[
+				"content-t",
+				"content-team.php"
+			],
+			[
+				"main.js",
+				"js/main.js"
+			],
+			[
+				"side",
+				"sidebar.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"style",
+				"style.min.css"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"content-pa",
+				"content-page.php"
+			],
+			[
+				"js",
+				"js/html5.js"
+			],
+			[
+				"fonts",
+				"css/fonts.css"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"news",
+				"templates/news.php"
+			],
+			[
+				"servi",
+				"templates/services.php"
+			],
+			[
+				"form-c",
+				"woocommerce/checkout/form-checkout.php"
+			],
+			[
+				"checkout",
+				"woocommerce/checkout.php"
+			],
+			[
+				"ser",
+				"services.php"
+			],
+			[
+				"ie",
+				"css/ie.css"
+			],
+			[
+				"sear",
+				"search.php"
+			],
+			[
+				"lab",
+				"lab.php"
+			],
+			[
+				"cart",
+				"woocommerce/cart/cart.php"
+			],
+			[
+				"form-ce",
+				"woocommerce/checkout/form-checkout.php"
+			],
+			[
+				"car",
+				"woocommerce/cart/cart.php"
+			],
+			[
+				"wrap",
+				"woocommerce/shop/wrapper-start.php"
+			],
+			[
+				"content-sing",
+				"woocommerce/content-single-product.php"
+			],
+			[
+				"woo",
+				"woocommerce/single-product.php"
+			],
+			[
+				"content-sin",
+				"woocommerce/content-single-product.php"
+			],
+			[
+				"woocomm",
+				"woocommerce/single-product.php"
+			],
+			[
+				"bread",
+				"woocommerce/shop/breadcrumb.php"
+			],
+			[
+				"brea",
+				"woocommerce/shop/breadcrumb.php"
+			],
+			[
+				"woocomend",
+				"woocommerce/shop/wrapper-end.php"
+			],
+			[
+				"woosingle",
+				"woocommerce/single-product.php"
+			],
+			[
+				"pag",
+				"page.php"
+			],
+			[
+				"arch",
+				"archive.php"
+			],
+			[
+				"cate",
+				"category.php"
+			],
+			[
+				"home",
+				"home.php"
+			],
+			[
+				"das",
+				"ch-admin/dashboard-options.php"
+			],
+			[
+				"contact",
+				"contact.php"
+			],
+			[
+				"map",
+				"map.php"
+			],
+			[
+				"ab",
+				"lab.php"
+			],
+			[
+				"fle",
+				"js/min/flexslider.min.js"
+			],
+			[
+				"fl",
+				"js/flexslider.js"
+			],
+			[
+				"flex",
+				"css/flexslider.css"
+			],
+			[
+				"scripts",
+				"ch-admin/footer-scripts.php"
+			],
+			[
+				"comment",
+				"comments.php"
+			],
+			[
+				"custom.",
+				"scss/custom.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": false
+}

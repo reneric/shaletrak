@@ -161,22 +161,52 @@
   }
   ul.nav li a {
     background-repeat: no-repeat;
-    background-position: center center;
+    background-image: url("../img/icon-sprite.png");
   }
   ul.nav li[rel="dashboard"] a {
-    background-image: url("../img/dashboard-icon.png");
+    background-position: 20px 12px;
+  }
+  ul.nav li[rel="dashboard"] a:hover {
+    background-position: -106px 12px;
   }
   ul.nav li[rel="wells"] a {
-    background-image: url("../img/wells-icon.png");
+    background-position: 20px -30px;
+  }
+  ul.nav li[rel="wells"] a:hover {
+    background-position: -106px -30px;
   }
   ul.nav li[rel="royalty"] a {
-    background-image: url("../img/royalty-icon.png");
+    background-position: 20px -74px;
+  }
+  ul.nav li[rel="royalty"] a:hover {
+    background-position: -106px -74px;
   }
   ul.nav li[rel="reports"] a {
-    background-image: url("../img/reports-icon.png");
+    background-position: 20px -117px;
+  }
+  ul.nav li[rel="reports"] a:hover {
+    background-position: -106px -117px;
   }
   ul.nav li[rel="links"] a {
-    background-image: url("../img/links-icon.png");
+    background-position: 20px -158px;
+  }
+  ul.nav li[rel="links"] a:hover {
+    background-position: -106px -158px;
+  }
+  ul.nav li[rel="dashboard"].active a {
+    background-position: -106px 12px;
+  }
+  ul.nav li[rel="wells"].active a {
+    background-position: -106px -30px;
+  }
+  ul.nav li[rel="royalty"].active a {
+    background-position: -106px -74px;
+  }
+  ul.nav li[rel="reports"].active a {
+    background-position: -106px -117px;
+  }
+  ul.nav li[rel="links"].active a {
+    background-position: -106px -158px;
   }
 
   button.navbar-toggle, div.navbar-header {

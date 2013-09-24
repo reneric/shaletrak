@@ -156,32 +156,72 @@ ul.nav{
     background-repeat: no-repeat;
     a{
       background-repeat: no-repeat;
-      background-position: center center;
+      background-image: url("../img/icon-sprite.png");
     }
     &[rel="dashboard"]{
       a{
-        background-image: url("../img/dashboard-icon.png");
+        background-position:20px 12px;
+        &:hover{
+          background-position:-106px 12px;
+        }
       }
     }
     &[rel="wells"]{
       a{
-        background-image: url("../img/wells-icon.png");
+        background-position:20px -30px;
+        &:hover{
+          background-position:-106px -30px;
+        }
       }
     }
     &[rel="royalty"]{
       a{
-        background-image: url("../img/royalty-icon.png");
+        background-position:20px -74px;
+        &:hover{
+          background-position:-106px -74px;
+        }
       }
     }
     &[rel="reports"]{
       a{
-        background-image: url("../img/reports-icon.png");
+        background-position:20px -117px;
+        &:hover{
+          background-position:-106px -117px;
+        }
       }
     }
     &[rel="links"]{
       a{
-        background-image: url("../img/links-icon.png");
+        background-position:20px -158px;
+        &:hover{
+          background-position:-106px -158px;
+        }
       }
+    }
+    &[rel="dashboard"].active{
+      a{
+          background-position:-106px 12px;
+        }
+    }
+    &[rel="wells"].active{
+      a{
+          background-position:-106px -30px;
+        }
+    }
+    &[rel="royalty"].active{
+      a{
+          background-position:-106px -74px;
+        }
+    }
+    &[rel="reports"].active{
+      a{
+          background-position:-106px -117px;
+        }
+    }
+    &[rel="links"].active{
+      a{
+          background-position:-106px -158px;
+        }
     }
   }
 }
